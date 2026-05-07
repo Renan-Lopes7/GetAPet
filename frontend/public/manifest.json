@@ -1,0 +1,6 @@
+{
+    "short_name": "GetAPet",
+    "name": "GetAPet",
+    "start_url": ".",
+    "display": "standalone"
+}
